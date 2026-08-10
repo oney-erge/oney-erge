@@ -2,29 +2,27 @@
 
 **Agentic AI + Physics | UT Austin PhD**
 
-I work on enterprise-grade agentic AI systems and configurable language-model capabilities for complex, high-value business problems.
+I work on language-model and agentic systems for complex, real-world problems.
 
-My technical foundation is in data science, machine learning, optimization, robotics, physics-based modeling, and statistical modeling. A good portion of my research and past work has lived at the intersection of AI and physics, including hybrid physics-data models, flow dynamics, and autonomous systems.
+My background spans data science, machine learning, optimization, robotics, physics-based modeling, and statistics. Much of my research has focused on combining physics-based and data-driven models, especially in fluid dynamics, automated operations, and autonomous systems.
 
-I am especially interested in where agentic AI, robotics, data science, and AI + physics approaches meet real-world complexity.
+I am especially interested in work that brings AI, robotics, and physical systems together.
 
 ## Focus Areas
 
-- Agentic AI systems
-- Language modeling engineering
-- Enterprise RAG and search
-- Multi-agent orchestration
-- MCP-based tool integration
-- Applied data science
-- Robotics
+- Language-model systems
+- Agentic AI and multi-agent systems
+- Search and retrieval
+- Tool integration and workflow automation
+- Applied machine learning
+- Robotics and simulation
 - AI + physics
 - Optimization and statistical modeling
 
 ## Selected Background
 
 - PhD in Dynamic Systems and Control from The University of Texas at Austin
-- Enterprise language-modeling systems and agentic AI platforms
-- AI/ML solutions across LLM applications, NLP, optimization, and MLOps
+- Work across language-model applications, NLP, optimization, and MLOps
 - Research in hybrid physics-based and data-driven modeling
 - 10+ years as Associate Editor, overseeing peer review and editorial decisions for 250+ scientific manuscripts
 
