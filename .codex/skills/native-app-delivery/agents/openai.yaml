@@ -1,0 +1,4 @@
+interface:
+  display_name: "Native App Delivery"
+  short_description: "Standardize native install, run, repair, and Docker UX"
+  default_prompt: "Audit and implement the shared native install-and-run contract for this repository."
