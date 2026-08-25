@@ -2,9 +2,7 @@
 
 **Agentic AI + Physics | UT Austin PhD**
 
-### [oneyerge.com](https://oneyerge.com)
-
-My work, projects, publications, and patents are collected at **[oneyerge.com](https://oneyerge.com)**.
+**Portfolio, projects, publications, and patents: [oneyerge.com](https://oneyerge.com)**
 
 I work on language-model and agentic systems for complex, real-world problems.
 
@@ -32,10 +30,10 @@ I am especially interested in work that brings AI, robotics, and physical system
 
 ## Links
 
-- Website: [oneyerge.com](https://oneyerge.com)
-- Selected work: [oneyerge.com/#work](https://oneyerge.com/#work)
-- LinkedIn: [linkedin.com/in/oneyerge](https://www.linkedin.com/in/oneyerge)
-- Google Scholar: [scholar.google.com](https://scholar.google.com/citations?user=x0tT7L4AAAAJ)
-- ResearchGate: [researchgate.net/profile/Oney-Erge](https://www.researchgate.net/profile/Oney-Erge)
+<p>
+  <a href="https://www.linkedin.com/in/oneyerge"><img src="https://img.shields.io/badge/LinkedIn-Oney_Erge-0A66C2?logo=linkedin&amp;logoColor=white" alt="Oney Erge on LinkedIn" /></a>
+  <a href="https://scholar.google.com/citations?user=x0tT7L4AAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-Publications-4285F4?logo=googlescholar&amp;logoColor=white" alt="Oney Erge on Google Scholar" /></a>
+  <a href="https://www.researchgate.net/profile/Oney-Erge"><img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?logo=researchgate&amp;logoColor=white" alt="Oney Erge on ResearchGate" /></a>
+</p>
 
 Outside of AI: I grew up on 90s and early 2000s PC games and still go back to them. Some things just hold up.
