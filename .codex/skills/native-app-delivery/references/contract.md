@@ -1,4 +1,4 @@
-# Native Delivery Contract
+# Install and Run Contract
 
 ## Public command surface
 
@@ -21,6 +21,13 @@ The default action is `run`. Support the following actions when they apply:
 - `logs`: show where logs live or stream the relevant log.
 
 Also preserve `--no-browser` and `--non-interactive` where meaningful.
+
+Use plain names for repository plumbing:
+
+- Shared helper code: `scripts/install-utils.ps1` and
+  `scripts/install-utils.sh`.
+- Install state and persistent failures: `.setup/install.log`.
+- Do not expose the internal skill name in product copy or public READMEs.
 
 ## Bootstrap and state
 
@@ -97,3 +104,7 @@ Minimum acceptance checks:
 8. A first successful installation can start offline when the product permits.
 9. Compose validates, the image builds, and the container becomes healthy.
 10. Release artifacts install and run outside the source checkout.
+
+Run `python scripts/audit_install_run.py <repository>` from this skill for the
+fast structural gate. It does not replace product-specific readiness checks or
+clean-machine testing.

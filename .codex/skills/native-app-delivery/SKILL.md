@@ -24,6 +24,10 @@ platform, hardware, licensing, and authentication limits.
 5. Verify syntax, first-run behavior, idempotent rerun, dependency-change
    repair, readiness, process cleanup, and Docker health in proportion to the
    repository's risk and available platforms.
+6. For repositories using the shared root launchers, start from
+   [assets/install-utils.ps1](assets/install-utils.ps1) and
+   [assets/install-utils.sh](assets/install-utils.sh), then run
+   `python scripts/audit_install_run.py <repository>`.
 
 ## Durable Rules
 
@@ -46,3 +50,5 @@ platform, hardware, licensing, and authentication limits.
   installer unless the user experience actually installs the application.
 - Do not publish, tag, push, create a release, install system software, or
   change credentials unless the current request authorizes it.
+- Keep the skill name internal. Public repositories should use direct install,
+  setup, run, repair, doctor, logs, and stop language.
