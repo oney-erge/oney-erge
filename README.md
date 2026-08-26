@@ -37,9 +37,3 @@ I am especially interested in work that brings AI, robotics, and physical system
 </p>
 
 Outside of AI: I grew up on 90s and early 2000s PC games and still go back to them. Some things just hold up.
-
-## Reusable project standard
-
-The repository also tracks my [native application delivery skill](.codex/skills/native-app-delivery/SKILL.md).
-It defines the shared Windows, macOS, Linux, Docker, diagnostics, repair, and
-release contract used across my runnable projects.
