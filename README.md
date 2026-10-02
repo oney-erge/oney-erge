@@ -10,6 +10,17 @@ My background spans data science, machine learning, optimization, robotics, phys
 
 I am especially interested in work that brings AI, robotics, and physical systems together.
 
+## What I'm Building
+
+| Project | What it does |
+|---|---|
+| [**Afterimage**](https://github.com/oney-erge/Afterimage) | Run BF16 LLMs too big for your GPU at full precision. Companion code for my paper on schedule-aware exact weight placement. |
+| [**YBM**](https://github.com/oney-erge/YBM) | A local AI agent you can reach from the web, Telegram, and WhatsApp. It plans, asks before anything consequential, and keeps a receipt. |
+| [**LocalDeploy**](https://github.com/oney-erge/LocalDeploy) | Pick, deploy, and benchmark the best local AI model for your machine, from a browser UI and an OpenAI-compatible API. |
+| [**Agentarium**](https://github.com/oney-erge/Agentarium) | A visual physics sandbox where LLM agents build bridges, creatures, and machines, watch the replay, and try again. |
+| [**Creature Lab**](https://github.com/oney-erge/Creature-Lab) | A failure-first, local workbench for robot morphology experiments. |
+| [**SegCraft**](https://github.com/oney-erge/SegCraft-Semantic-Segmentation) | Train, evaluate, and run semantic segmentation on images and video from one YAML config. |
+
 ## Focus Areas
 
 - Language-model systems
