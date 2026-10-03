@@ -10,27 +10,24 @@ My background spans data science, machine learning, optimization, robotics, phys
 
 I am especially interested in work that brings AI, robotics, and physical systems together.
 
-## What I'm Building
+## Focus Areas
+
+- Large language models and efficient inference
+- Agentic and multi-agent systems
+- Robotics, simulation, and embodied AI
+- Scientific machine learning and physics-based modeling
+- Optimization, statistical modeling, and autonomous systems
+
+## Projects
 
 | Project | What it does |
 |---|---|
-| [**Afterimage**](https://github.com/oney-erge/Afterimage) | Run BF16 LLMs too big for your GPU at full precision. Companion code for my paper on schedule-aware exact weight placement. |
-| [**YBM**](https://github.com/oney-erge/YBM) | A local AI agent you can reach from the web, Telegram, and WhatsApp. It plans, asks before anything consequential, and keeps a receipt. |
-| [**LocalDeploy**](https://github.com/oney-erge/LocalDeploy) | Pick, deploy, and benchmark the best local AI model for your machine, from a browser UI and an OpenAI-compatible API. |
-| [**AgentGymnasium**](https://github.com/oney-erge/AgentGymnasium) | A visual physics sandbox where LLM agents build bridges, creatures, and machines, watch the replay, and try again. |
-| [**Creature Lab**](https://github.com/oney-erge/Creature-Lab) | A failure-first, local workbench for robot morphology experiments. |
-| [**SegCraft**](https://github.com/oney-erge/SegCraft-Semantic-Segmentation) | Train, evaluate, and run semantic segmentation on images and video from one YAML config. |
-
-## Focus Areas
-
-- Language-model systems
-- Agentic AI and multi-agent systems
-- Search and retrieval
-- Tool integration and workflow automation
-- Applied machine learning
-- Robotics and simulation
-- AI + physics
-- Optimization and statistical modeling
+| [**Afterimage**](https://github.com/oney-erge/Afterimage) | A research toolbox for running and studying LLMs on constrained hardware, with memory, placement, and inference strategies plus reproducible benchmarking. |
+| [**YBM**](https://github.com/oney-erge/YBM) | A local AI agent for real computer work, with planning, approvals, execution, verification, and audit trails. |
+| [**LocalDeploy**](https://github.com/oney-erge/LocalDeploy) | A hardware-aware platform for finding, deploying, managing, and benchmarking local AI models across different runtimes. |
+| [**AgentGymnasium**](https://github.com/oney-erge/AgentGymnasium) | A visual physics environment where LLM agents build, simulate, evaluate, and iteratively improve physical designs. |
+| [**Creature Lab**](https://github.com/oney-erge/Creature-Lab) | A workbench for robot morphology design, simulation, diagnosis, and reproducible experimentation. |
+| [**SegCraft**](https://github.com/oney-erge/SegCraft-Semantic-Segmentation) | A config-first toolkit for semantic segmentation training, evaluation, and image/video inference. |
 
 ## Selected Background
 
