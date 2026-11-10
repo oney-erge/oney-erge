@@ -26,7 +26,7 @@ I am especially interested in work that brings AI, robotics, and physical system
 | [**YBM**](https://github.com/oney-erge/YBM) | A local AI agent for real computer work, with planning, approvals, execution, verification, and audit trails. |
 | [**LocalDeploy**](https://github.com/oney-erge/LocalDeploy) | A hardware-aware platform for finding, deploying, managing, and benchmarking local AI models across different runtimes. |
 | [**AgentGymnasium**](https://github.com/oney-erge/AgentGymnasium) | A visual physics environment where LLM agents build, simulate, evaluate, and iteratively improve physical designs. |
-| [**Creature Lab**](https://github.com/oney-erge/Creature-Lab) | A workbench for robot morphology design, simulation, diagnosis, and reproducible experimentation. |
+| [**Creature Lab**](https://github.com/oney-erge/Creature-Lab) | Shove a real robot, see exactly why it fell, and prove the fix. Published robots and their trained policies, in a browser app on a laptop CPU. |
 | [**SegCraft**](https://github.com/oney-erge/SegCraft-Semantic-Segmentation) | A config-first toolkit for semantic segmentation training, evaluation, and image/video inference. |
 
 ## Selected Background
