@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "repository": {"id": "oney-erge/oney-erge", "owner": "oney-erge", "maintenance": "unclassified", "interfaces": ["static-content"]},
+  "capabilities": ["static-content"],
+  "components": [{"id": "profile", "root": "."}],
+  "checks": {"worktree-whitespace": {"argv": ["git", "diff", "--check"], "cwd": ".", "timeout_seconds": 30, "effects": "read-only"}},
+  "journeys": [{"id": "discover-projects", "user_outcome": "Find accurate project descriptions and working project links", "checks": ["worktree-whitespace"], "additional_evidence_needed": ["verify link targets", "check descriptions against current repositories", "review profile readability"]}],
+  "evidence": {"status": "not-collected-by-repoctl", "note": "A whitespace check does not verify links or project claims."}
+}
